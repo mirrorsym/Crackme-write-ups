@@ -6,12 +6,12 @@ They mostly involve x86/64 Windows PE files but may sometimes be about powershel
 Done:
 
 - Root-Me KeygenMe PE32+
+- Root-Me PE x64 UEFI Secure Boot
 
-Planned/In progress:
+Other solved challenges a write up about which is expected:
 
 - Root-Me RunPE (Windows x86)
 - Root-Me SEHVEH
-- Root-Me UEFI
 - Flare-On 2025 Challenge 3 (PDF and steganography)
 
 Last update: 26 November 2025
