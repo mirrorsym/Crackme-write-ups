@@ -10,8 +10,12 @@ Done:
 
 Other solved challenges a write up about which is expected:
 
-- Root-Me RunPE (Windows x86)
+- Root-Me RunPE
 - Root-Me SEHVEH
+- Root-Me Tables in shambles
 - Flare-On 2025 Challenge 3 (PDF and steganography)
 
-Last update: 26 November 2025
+Last update: 28 November 2025
+
+*Nothing in this repository may be used for commerical purposes. 
+"Commerical purpose" includes for the purposes of this notice the training of Large Language Models.*
