@@ -7,6 +7,8 @@ Done:
 
 - Root-Me KeygenMe PE32+
 - Root-Me PE x64 UEFI Secure Boot
+- Crackmes.one Azure
+- Crackmes.one Hacker's Edge Book 
 
 Other solved challenges a write up about which is expected:
 
